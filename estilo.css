@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
 body {
     background-color: lightskyblue;
     width: 300px;
     margin: 0px 40%;
+    font-family: 'Open Sans', sans-serif;
 }
 div {
     
 }
-title {
-font-family: sans-serif;
+.texto {
+    font-family: 'Open Sans', sans-serif;
 }
 .topo div {
     background-color: white;
@@ -18,19 +20,16 @@ font-family: sans-serif;
 
 h1 {
     font-size: 28px;
-    font-family: sans-serif;
     color:aqua;
     text-align: left;
 }
 h2 {
     font-size: 20px;
-    font-family: sans-serif;
     color: greenyellow;
     text-align: left;
 }
 .topo p {
     font-size: 14px;
-    font-family: sans-serif;
     color:black;
     text-align: left;
 }
@@ -47,30 +46,30 @@ h2 {
     }
 .topo1 p{
     font-size: 14px;
-    font-family: sans-serif;
     color: white;
     text-align: left;
 }
+
 .topo1 span{
     font-size: 28px;
 }
+
 .botao span{
     font-size: 20px;
     padding: 5px 10px;
     color: black;
     background-color:chartreuse;
-    font-family: sans-serif;
     border-radius: 10px 10px;
     margin: 0px 80px;
 }
+
 .topo2 span{
     font-size: 20px;
-    font-family: sans-serif;
     color: white;
 }
+
 .topo2 p{
     font-size: 14px;
-    font-family: sans-serif;
     color: white;
 }
 
