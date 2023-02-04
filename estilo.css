@@ -1,0 +1,77 @@
+body {
+    background-color: lightskyblue;
+    width: 300px;
+    margin: 0px 40%;
+}
+div {
+    
+}
+title {
+font-family: sans-serif;
+}
+.topo div {
+    background-color: white;
+    padding: 20px 20px;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+h1 {
+    font-size: 28px;
+    font-family: sans-serif;
+    color:aqua;
+    text-align: left;
+}
+h2 {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: greenyellow;
+    text-align: left;
+}
+.topo p {
+    font-size: 14px;
+    font-family: sans-serif;
+    color:black;
+    text-align: left;
+}
+.topo1 { 
+    background-color: rgb(50, 112, 112);
+    padding: 20px 20px;
+    text-align: left;
+}
+.topo2 {
+    background-color:rgb(80, 202, 162);
+    padding: 20px 20px;
+    text-align: left;
+    border-radius: 0px 0px 10px 10px;
+    }
+.topo1 p{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: white;
+    text-align: left;
+}
+.topo1 span{
+    font-size: 28px;
+}
+.botao span{
+    font-size: 20px;
+    padding: 5px 10px;
+    color: black;
+    background-color:chartreuse;
+    font-family: sans-serif;
+    border-radius: 10px 10px;
+    margin: 0px 80px;
+}
+.topo2 span{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
+.topo2 p{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: white;
+}
+
+
