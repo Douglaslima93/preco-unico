@@ -4,10 +4,9 @@ body {
     width: 300px;
     margin: 0px 40%;
     font-family: 'Open Sans', sans-serif;
-}
-div {
     
 }
+
 .texto {
     font-family: 'Open Sans', sans-serif;
 }
@@ -30,13 +29,15 @@ h2 {
 }
 .topo p {
     font-size: 14px;
-    color:black;
+    color:gray;
     text-align: left;
 }
 .topo1 { 
     background-color: rgb(50, 112, 112);
     padding: 20px 20px;
-    text-align: left;
+    color: white;
+    font-size: 14px;
+    
 }
 .topo2 {
     background-color:rgb(80, 202, 162);
@@ -44,23 +45,22 @@ h2 {
     text-align: left;
     border-radius: 0px 0px 10px 10px;
     }
-.topo1 p{
-    font-size: 14px;
-    color: white;
-    text-align: left;
-}
 
-.topo1 span{
-    font-size: 28px;
+.dollar{
+    font-size: 40px;
 }
-
-.botao span{
+    
+.botao {
     font-size: 20px;
-    padding: 5px 10px;
-    color: black;
+    padding: 5px 5px;
+    color: white;
     background-color:chartreuse;
     border-radius: 10px 10px;
-    margin: 0px 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    
+
 }
 
 .topo2 span{
